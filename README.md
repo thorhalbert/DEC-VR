@@ -9,4 +9,4 @@ Most of these pictures have been collected off the web over many years and were 
 
 However, the 'My Drawings' directory contains PDP-11 console images that I created in inkscape and the 'Misc' libary has a few pictures of me surrounded by old machines.
 
-I also have a vast pin-board on pinterest that I'll try to back up and put in here.
+I also have a vast pin-board on pinterest that I'll try to back up and put in here.    For now, you can look [here](https://www.pinterest.com/thorhalbert/vintage-computers/).
